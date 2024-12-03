@@ -1,0 +1,36 @@
+ <!-- <footer class="bg-indigo-900 py-12 font-Poppins px-8">
+        <section id="Aboutus">
+            <div class="container mx-auto px-2 text-white">
+                <div class="flex justify-between">
+                    <div class="">
+                        <h2 class="text-3xl font-bold mb-4">Explore</h2>
+                        <ul class="flex space-x-4 text-6xl">
+                            <li>
+                                <a href="#"><i class="fa-brands fa-facebook-square"></i></a>
+                            </li>
+    
+                            <li>
+                                <a href="https://www.youtube.com/@yusuf.H1"><i class="fa-brands fa-youtube-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+    
+                    <div class="">
+                        <h2 class="text-3xl font-bold mb-4">Learn More</h2>
+                        <ul class="ml-6">
+                            <li><a href="#Home">Home</a></li>
+                            <li><a href="#Course">Course</a></li>
+                            <li><a href="#Blog">Blog</a></li>
+                            <li><a href="#About">About</a></li>
+                        </ul>
+                    </div>
+    
+                    <div class="">
+                        <h2 class="text-3xl font-bold mb-4 font-Poppins">Brand</h2>
+                        <p>© Copyright 2019 by Brand.com</p>
+                    </div>
+    
+                </div>
+            </div>
+        </section>
+    </footer> -->
